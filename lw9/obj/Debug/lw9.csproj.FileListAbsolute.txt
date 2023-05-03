@@ -11,3 +11,6 @@ C:\study\Secondcourse\databases\lw9\obj\Debug\lw9.csproj.CoreCompileInputs.cache
 C:\study\Secondcourse\databases\lw9\obj\Debug\lw9.csproj.CopyComplete
 C:\study\Secondcourse\databases\lw9\obj\Debug\lw9.exe
 C:\study\Secondcourse\databases\lw9\obj\Debug\lw9.pdb
+C:\study\Secondcourse\databases\lw9\obj\Debug\lw9.Migrations.InitialCreate.resources
+C:\study\Secondcourse\databases\lw9\obj\Debug\lw9.csproj.GenerateResource.cache
+C:\study\Secondcourse\databases\lw9\obj\Debug\lw9.Migrations.MyMigrationName.resources
